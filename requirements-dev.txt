@@ -1,0 +1,17 @@
+-r requirements.txt
+
+# Coverage
+#coverage==3.7.1
+#django-coverage==1.2.4
+
+# Lint
+#flake8==2.3.0
+#mccabe==0.2.1
+#pep8==1.5.7
+#pyflakes==0.8.1
+
+# Utils
+#ipdb==0.8
+#ipython==2.3.1
+#django-debug-toolbar-line-profiler==0.4.0
+#django-debug-toolbar-template-profiler==1.0.1

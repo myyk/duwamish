@@ -49,3 +49,5 @@ src/flavors/defaultflavor
 
 # sqlite database
 *.db
+
+.sentinel
